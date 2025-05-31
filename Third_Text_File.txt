@@ -1,0 +1,3 @@
+Hello
+This is the third text file.
+It is created using python.
